@@ -23,7 +23,7 @@ An independent analytical study examining 200+ private schools in Dubai to under
 ### 🎓 Curriculum is the Strongest Performance Driver
 
 <p align="center">
-  <img src="ratings_by_curriculum.png" width="700">
+  <img src="ratings_by_curriculumn.png" width="700">
   <br>
   <em>Performance distribution across different curriculum types</em>
 </p>
@@ -37,7 +37,7 @@ An independent analytical study examining 200+ private schools in Dubai to under
 ### 📏 School Size Matters
 
 <p align="center">
-  <img src="enrollment_by_curriculum.png" width="700">
+  <img src="enrollment_by_curriculumn.png" width="700">
   <br>
   <em>Student enrollment distribution by curriculum type</em>
 </p>
@@ -66,7 +66,7 @@ An independent analytical study examining 200+ private schools in Dubai to under
 ### 🏫 Six Distinct School Profiles
 
 <p align="center">
-  <img src="clustering_six_profiles.png" width="700">
+  <img src="clustring_six_profiles.png" width="700">
   <br>
   <em>Six distinct school clusters identified through K-means analysis</em>
 </p>
